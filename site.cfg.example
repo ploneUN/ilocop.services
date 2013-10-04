@@ -1,0 +1,8 @@
+[site]
+instance1-address = 127.0.0.1:8081
+instance2-address = 127.0.0.1:8082
+instance3-address = 127.0.0.1:8083
+instance4-address = 127.0.0.1:8084
+haproxy-user = haproxy
+haproxy-group = haproxy
+haproxy-address =  127.0.0.1:8080
